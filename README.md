@@ -9,10 +9,10 @@ automate the creation of highlights from live stream
 - auto identify highlights
 
 # prereq
-install python (anaconda recommended)
-install moviepy
+- install python (anaconda recommended)
+- install moviepy
 
 # how to use
-open livesplice notebook
-update config for your highlights
-hit run
+- open livesplice notebook
+- update config for your highlights
+- hit run
