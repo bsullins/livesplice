@@ -18,5 +18,5 @@ automate the creation of highlights from live stream
 # creating highlights
 - Run from command line with movie file (-m) and cut list (-c)
 
-`$ live-splice.py -m /Users/ben/Movies/2018-06-13_13-50-45.mp4 -c /Users/ben/YouTube/live-log/2018-06-13-live.txt
+`$ python live-splice.py -m /Users/ben/Movies/2018-06-13_13-50-45.mp4 -c /Users/ben/YouTube/live-log/2018-06-13-live.txt
 `
